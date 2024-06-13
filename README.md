@@ -1,36 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+En los confines del tiempo y la realidad, un valiente humano se atrevió a cruzar las fronteras de lo conocido. Su deseo ardía como una estrella en el firmamento, y así, sin previo aviso, se encontró transformado en una oveja. Pero no una oveja cualquiera: sus patas eran como raíces de árboles, y su lana, tejida con hilos de destino, brillaba con una luz ancestral.
 
-## Getting Started
+En este mundo alternativo, los lobos acechaban en las sombras, sus ojos amarillos como la luna llena. Eran más que simples depredadores; eran guardianes de secretos olvidados y portadores de una antigua maldición. La oveja-humano, ahora llamada “Lanark”, se alzó sobre las colinas verdes y enfrentó su destino.
 
-First, run the development server:
+Las colinas resonaban con el eco de su lucha. Lanark embistió contra los lobos, sus cuernos afilados como espadas legendarias. Cada mordisco, cada zarpazo, era una danza de vida y muerte. Pero Lanark no estaba solo. En su corazón latía la esperanza de un mundo en equilibrio, donde la magia y la realidad se entrelazaban como los hilos de su lana.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Así comenzó la epopeya de Lanark, la oveja-humano. ¿Lograría desentrañar los secretos de su transformación? ¿Encontraría la clave para regresar a su forma original? Solo el destino lo sabía, y los lobos aullaban en anticipación. La aventura aguardaba, y Lanark estaba dispuesto a enfrentarla con valentía y lana enredada en su destino. 🌟🐑🌕
